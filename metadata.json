@@ -1,0 +1,8 @@
+{
+  "name": "Med Mastery Pro: V1 Production",
+  "description": "Unified clinical residency accelerator with 10-track clinical master indexing and OnCourse AI pedagogical framework.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
